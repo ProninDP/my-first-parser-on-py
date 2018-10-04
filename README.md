@@ -1,7 +1,7 @@
 # my_first_parser
 Парсер сайта с дилогами
 использовался python 3.7.0
-мобуди requests, BeautifulSoup4, Document, re
+модули requests, BeautifulSoup4, Document, re
 
 Парсер берет ссылки с диалогами, перебирает каждую страницу
 разделяет на два списка русский и английский текст
