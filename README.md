@@ -1,4 +1,4 @@
-# my_first_parser
+# my first parser on py
 Парсер сайта с дилогами
 использовался python 3.7.0
 модули requests, bs4, docx, re
